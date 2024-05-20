@@ -7,8 +7,13 @@
     flex-flow: column wrap;
 }
 
+.dynamicLines {
+    gap: 1rem;
+    padding: 1rem 0;
+}
 .dynamicLines__text {
     font-size: 4rem;
+    font-weight: 500;
     text-transform: uppercase;
     font-family: "Lexend", sans-serif;
     font-optical-sizing: auto;
